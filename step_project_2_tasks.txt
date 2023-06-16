@@ -1,1 +1,8 @@
-Tasks
+Task 2
+2. Install Git and Perform Basic Configuration:
+- Why is Git so widely used?
+- Install Git using the package manager of your Linux distribution.
+- Configure your name and email for Git.
+- Set up useful aliases for Git commands.
+- Set the default rebase strategy for "git pull" operations.
+- Create a local git repository "step_project_2"
